@@ -12,3 +12,8 @@ After installation cd into your project folder and run http-server -o.
 If do you have index.html file inside the selected folder then this will autometically load on the broweser with the following URL.
 
 http://127.0.0.1:8080/
+
+
+You can find the refference in the below link.
+
+https://www.npmjs.com/package/http-server
