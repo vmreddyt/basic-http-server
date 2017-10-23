@@ -14,6 +14,6 @@ If do you have index.html file inside the selected folder then this will automet
 http://127.0.0.1:8080/ or http://localhost:8080/
 
 
-You can find the refference in the below link.
+You can find the refference for http-server in the below link.
 
 https://www.npmjs.com/package/http-server
